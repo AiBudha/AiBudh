@@ -1,24 +1,25 @@
-<!-- CYBERPUNK HEADER -->
+
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=700&lines=Ai Budha;FULL+STACK+DEVELOPER;TELEGRAM+AUTOMATION+ENGINEER;AI+SYSTEM+BUILDER" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=800&lines=AI+BUDHA;FULL+STACK+ENGINEER;TELEGRAM+AUTOMATION+ARCHITECT;AI+SYSTEM+DEVELOPER" />
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=140&section=header&animation=fadeIn"/>
 </p>
 
 ---
 
-## SYSTEM PROFILE
+## SYSTEM IDENTITY
 
 ```yaml
-name: Ai Budha
-role: Full Stack Developer
-specialization: Telegram Automation Systems
-architecture: Scalable Cloud Infrastructure
-focus: AI Integrated Workflows
-status: Shipping Production Code
+alias: AI Budha
+role: Automation Engineer
+core_stack: Python, Node, React
+specialty: Telegram Infrastructure
+focus: AI Driven Workflow Systems
+deployment: Cloud Native
+status: Active
 
 <h1 align="center">AiBudha</h1>
 <h3 align="center">Full Stack Developer • Automation Builder • Telegram Bot Specialist</h3>
