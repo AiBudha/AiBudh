@@ -1,7 +1,7 @@
 <!-- CYBERPUNK HEADER -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=700&lines=DHAMU;FULL+STACK+DEVELOPER;TELEGRAM+AUTOMATION+ENGINEER;AI+SYSTEM+BUILDER" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=700&lines=Ai Budha;FULL+STACK+DEVELOPER;TELEGRAM+AUTOMATION+ENGINEER;AI+SYSTEM+BUILDER" />
 </h1>
 
 <p align="center">
