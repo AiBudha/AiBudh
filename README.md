@@ -1,61 +1,57 @@
-<h1 align="center">AI Budha</h1>
-<h3 align="center">Senior Full Stack Engineer | Automation Systems Architect</h3>
+<h1 align="center" style="color:#00ff41;">AI Budha</h1>
+<h3 align="center" style="color:#00ff41;">Senior Full Stack Engineer | Systems Architect</h3>
 
 <p align="center">
   <a href="https://t.me/babybudha">
-    <img src="https://img.shields.io/badge/Telegram-babybudha-1f6feb?style=for-the-badge&logo=telegram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Telegram-babybudha-000000?style=for-the-badge&logo=telegram&logoColor=00ff41&labelColor=000000"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=ccadmin1&style=for-the-badge&color=1f6feb"/>
+  <img src="https://komarev.com/ghpvc/?username=ccadmin1&style=for-the-badge&color=00ff41"/>
 </p>
 
 ---
 
-## Profile
+## PROFILE
 
-I design and deliver production grade web applications, automation platforms, and commercial billing systems.  
-My work emphasizes scalability, data consistency, and long term maintainability.
-
-I operate across backend engineering, frontend systems, database architecture, and cloud infrastructure.
+I build production grade web applications, enterprise billing systems, and automation platforms.  
+I focus on scalable backend design, structured data systems, and secure infrastructure.
 
 ---
 
-## Core Expertise
+## CORE CAPABILITIES
 
 - Web application architecture  
-- Enterprise billing and POS software systems  
-- Telegram Bot API infrastructure  
-- Distributed automation pipelines  
+- Billing and POS software engineering  
+- Telegram automation systems  
 - RESTful and event driven backend services  
-- Secure authentication using JWT  
-- MongoDB schema design and indexing strategies  
-- API orchestration and AI integrations  
-- Cloud deployment and observability  
+- JWT based authentication  
+- MongoDB schema optimization  
+- AI API integrations  
+- Cloud deployment and monitoring  
 
 ---
 
-## Solution Domains
+## SYSTEM DOMAINS
 
 Web Applications  
-Custom dashboards  
-Administrative control systems  
-Business workflow platforms  
-API driven SaaS products  
+Admin dashboards  
+Business workflow systems  
+API driven SaaS platforms  
 
 Billing and POS Software  
-Retail and wholesale billing systems  
-Inventory and stock management  
-GST compliant invoice processing  
+Retail billing engines  
+Inventory tracking modules  
+GST compliant invoicing  
 Role based access control  
-Sales analytics and financial reporting  
+Sales reporting systems  
 
-Automation Platforms  
-High throughput message routing  
-Moderation and access control systems  
-Workflow automation engines  
+Automation Infrastructure  
+High throughput bot systems  
+Access control engines  
+Workflow orchestration  
 
 ---
 
-## Technology Stack
+## TECHNOLOGY STACK
 
 Backend  
 Python, Node.js  
@@ -67,35 +63,34 @@ Database
 MongoDB  
 
 Infrastructure  
-Docker, GitHub Actions, Linux based environments  
+Docker, GitHub Actions, Linux environments  
 
 ---
 
-## Engineering Principles
+## ENGINEERING PRINCIPLES
 
-- Design modular and extensible systems  
-- Apply clean architecture patterns  
-- Enforce strict data validation  
-- Optimize database performance  
-- Implement structured logging  
-- Deliver production ready releases  
+- Clean architecture  
+- Modular design  
+- Performance oriented data models  
+- Structured logging  
+- Production first mindset  
 
 ---
 
-## GitHub Statistics
+## SYSTEM METRICS
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ccadmin1&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccadmin1&layout=compact&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ccadmin1&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccadmin1&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ccadmin1&theme=github-dark&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ccadmin1&theme=chartreuse-dark&hide_border=true&background=000000"/>
 </p>
 
 ---
 
-## Contact
+## CONTACT
 
 Telegram  
 https://t.me/babybudha  
