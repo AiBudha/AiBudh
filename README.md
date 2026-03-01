@@ -13,7 +13,7 @@
 ## SYSTEM PROFILE
 
 ```yaml
-name: Dhamu
+name: Ai Budha
 role: Full Stack Developer
 specialization: Telegram Automation Systems
 architecture: Scalable Cloud Infrastructure
