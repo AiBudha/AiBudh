@@ -1,75 +1,114 @@
-<div align="center">
+<!-- CYBERPUNK HEADER -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝐇𝐞𝐥𝐥𝐨+𝐭𝐡𝐞𝐫𝐞+𝐟𝐞𝐥𝐥𝐨𝐰+<𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!)](https://git.io/typing-svg)
-[![telegram badge](https://img.shields.io/badge/I'mDhamu-30302f?style=flat&logo=telegram)](https://t.me/Dhashamoolam_dhamu)
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=700&lines=DHAMU;FULL+STACK+DEVELOPER;TELEGRAM+AUTOMATION+ENGINEER;AI+SYSTEM+BUILDER" />
+</h1>
 
-[<p align="center">
-<img src="https://telegra.ph/file/8abe16616c3c1e853b700.png">](https://telegram.dog/DhashamoolamDhamu)
-
-
-```
-... 
-```
-  <div align="center" width="50">
-
-<img src="https://github.com/ccadmin1/ccadmin1/blob/main/java-hacking-gif.gif" alt="Welcome!" width="300"/>
-
-</div>
-  
-<!--   <img src="https://badgen.net/badge/Python/✔/blue?icon=terminal&labelColor=EE0823"> -->
-
-[![DhashamoolamDhamu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccadmin1&theme=chartreuse-dark)](https://github.com/ccadmin1/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccadmin1&layout=compact)](https://github.com/ccadmin1/github-readme-stats)
-
-![](https://komarev.com/ghpvc/?username=ccadmin1&color=blueviolet&style=flat) 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ccadmin1&" alt="ccadmin1" /></p>
-
-
-<h3 align="left">🔨 LANGUAGES AND TOOLS :</h3>
-<p align="left">
-    <a href="https://www.python.org" target="_blank">
-        <img
-            src="https://img.shields.io/badge/Python-black?&style=for-the-badge&logo=python"
-        />
-    </a>
-    <a href="https://html.spec.whatwg.org/" target="_blank">
-        <img
-            src="https://img.shields.io/badge/HTML-black?&style=for-the-badge&logo=html5"
-        />
-    </a>
-    <a href="https://heroku.com/" target="_blank">
-        <img
-            src="https://img.shields.io/badge/Heroku-black?&style=for-the-badge&logo=git&logoColor=red"
-        />
-    </a>
-    <a href="https://github.com/" target="_blank">
-        <img
-            src="https://img.shields.io/badge/GitHub-black?&style=for-the-badge&logo=github"
-        />
-    </a>
-    <a href="https://mongodb.com/" target="_blank">
-        <img
-            src="https://img.shields.io/badge/MongoDB-black?&style=for-the-badge&logo=mongodb"
-        />
-    </a>
-    <a href="https://daringfireball.net/projects/markdown/" target="_blank">
-        <img
-            src="https://img.shields.io/badge/Markdown-black?&style=for-the-badge&logo=markdown"
-        />
-    </a>
-    <a href="https://json.org" target="_blank">
-        <img
-            src="https://img.shields.io/badge/Json-black?&style=for-the-badge&logo=json"
-        />
-    </a>
-    <a href="https://react.dev" target="_blank">
-        <img
-            src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
-        />
-    </a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=120&section=header"/>
 </p>
 
+---
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+## SYSTEM PROFILE
+
+```yaml
+name: Dhamu
+role: Full Stack Developer
+specialization: Telegram Automation Systems
+architecture: Scalable Cloud Infrastructure
+focus: AI Integrated Workflows
+status: Shipping Production Code
+
+<h1 align="center">AiBudha</h1>
+<h3 align="center">Full Stack Developer • Automation Builder • Telegram Bot Specialist</h3>
+
+<p align="center">
+  <a href="https://t.me/BABYBUDHA">
+    <img src="https://img.shields.io/badge/Telegram-Connect-0A66C2?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=ccadmin1&style=for-the-badge&color=0A66C2"/>
+</p>
+
+---
+
+## About Me
+
+• Build scalable Telegram automation systems  
+• Develop full stack web applications  
+• Deploy bots on cloud platforms  
+• Focus on performance and clean architecture  
+• Work with APIs and AI integrations  
+
+---
+
+## Tech Stack
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,mongodb,html,css,git,github,docker" />
+
+</p>
+
+Core Strengths:
+
+• Python automation  
+• Telegram Bot API  
+• REST API integration  
+• MongoDB data modeling  
+• React front end interfaces  
+• Cloud deployment  
+
+---
+
+## Featured Projects
+
+### Telegram Automation Suite
+High speed channel management bot  
+Bulk message control  
+Advanced routing system  
+
+### AI Integration Platform
+Multi model API system  
+OpenRouter integration  
+Secure token authentication  
+
+### Cloud Hosted Utilities
+Production ready deployments  
+Optimized performance  
+Logging and monitoring  
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ccadmin1&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccadmin1&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ccadmin1&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+## Current Focus
+
+• Scaling automation systems  
+• Building SaaS style Telegram tools  
+• AI powered workflow bots  
+• Secure production deployments  
+
+---
+
+## Contact
+
+Telegram: https://t.me/BABYBUDHA  
+GitHub: https://github.com/AiBudha 
+
+---
+
+<p align="center">
+  Building efficient systems. Shipping fast. Scaling responsibly.
+</p>
